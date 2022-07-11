@@ -2,7 +2,7 @@
 
 ## Web Developer
 
-I started to code in 2019 because I was fascinated by the way that sites works.
+I started to code in 2019 because I was fascinated by the way that web sites works.
 
 - 🌍  I'm based in Focsani,Romania
 - 🖥️  See my portfolio at [blitzcloud.ml](http://blitzcloud.ml)
