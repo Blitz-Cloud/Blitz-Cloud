@@ -7,7 +7,7 @@ I started to code in 2019 because I was fascinated by the way that web sites wor
 - 🌍  I'm based in Focsani,Romania
 - 🖥️  See my portfolio at [blitzcloud.ml](http://blitzcloud.me) ⚒️
 - ✉️  You can contact me at [ionut@blitzcloud.ml](mailto:ionutp626@gmail.com)
-- 🚀  I'm currently working on [social-hub](http://github.com/BlitzStudio/social-hub)
+- 🚀  I'm currently working on [pauze_muzicale](https://github.com/BlitzStudio/pauze_muzicale)
 - ⚡  I`m facinated about full-stack application and how you can make development faster
 
 <a href="https://www.twitter.com/blitz_cloud1369" target="_blank" rel="noreferrer"><img
