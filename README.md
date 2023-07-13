@@ -5,12 +5,10 @@
 I started to code in 2019 because I was fascinated by the way that web sites works.
 
 - 🌍  I'm based in Focsani,Romania
-- 🖥️  See my portfolio at [blitzcloud.ml](http://blitzcloud.ml)
-- ✉️  You can contact me at [ionut@blitzcloud.ml](mailto:ionut@blitzcloud.ml)
+- 🖥️  See my portfolio at [blitzcloud.ml](http://blitzcloud.me) ⚒️
+- ✉️  You can contact me at [ionut@blitzcloud.ml](mailto:ionutp626@gmail.com)
 - 🚀  I'm currently working on [social-hub](http://github.com/BlitzStudio/social-hub)
-- 🧠  I'm learning React
-- 🤝  I'm open to collaborating on projects that's integrates different APIs together, or tools that can make development faster.
-- ⚡  I'm looking toward how apps are deployed and how to integrate all the services ( nginx, k8s and docker ) fits together .
+- ⚡  I`m facinated about full-stack application and how you can make development faster
 
 <a href="https://www.twitter.com/blitz_cloud1369" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/blitz_cloud1369?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
